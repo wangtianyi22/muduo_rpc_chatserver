@@ -21,6 +21,10 @@ void hello(){
     cout<<"hello world"<<endl;
 }
 
+void bye(){
+    cout<<"bye bye"<<endl;
+}
+
 int main(){
     string first, last;
     cin>>first;
