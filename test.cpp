@@ -17,8 +17,8 @@ void fun(int &left, int &right, char letter1, char letter2, vector<string>& res)
     }
 }
 
-void git_test(){
-    printf("asasdasdasd");
+void hello(){
+    cout<<"hello world"<<endl;
 }
 
 int main(){
