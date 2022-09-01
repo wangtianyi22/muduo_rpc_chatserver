@@ -17,6 +17,10 @@ void fun(int &left, int &right, char letter1, char letter2, vector<string>& res)
     }
 }
 
+void git_test(){
+    printf("asasdasdasd");
+}
+
 int main(){
     string first, last;
     cin>>first;
