@@ -23,6 +23,7 @@ void hello(){
 
 void bye(){
     cout<<"bye bye"<<endl;
+    cout<<"dasd"<<endl;
 }
 
 int main(){
